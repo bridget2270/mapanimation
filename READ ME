@@ -1,0 +1,3 @@
+Project: Bus Map Animation
+This project shows a map of the Boston, MA area. The map starts off with one marker set at the coordinates for the first bus stop. 
+Once the button in the top left corner "Show Stops Between MIT and Harvard" is clicked the marker will start moving through each stop from MIT to Harvard, University.
